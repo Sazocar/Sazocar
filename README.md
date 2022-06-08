@@ -7,7 +7,7 @@ Frontend Developer and UI Designer
 I'm a Junior Frontend Developer that loves to code and make clean and nice user interfaces. I like to design web and mobile apps👨🏻‍💻
 
 * 🌍  I'm based in Caracas, Venezuela
-* 🖥️  See my portfolio at [https://beacons.ai/azocarsimon](http://https://beacons.ai/azocarsimon)
+* 🖥️  See my portfolio at [https://beacons.ai/azocarsimon](https://beacons.ai/azocarsimon)
 * ✉️  You can contact me at [saimn.azocar@gmail.com](mailto:saimn.azocar@gmail.com )
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Any interesting project
