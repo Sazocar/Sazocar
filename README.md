@@ -1,17 +1,16 @@
-Hi 👋 My name is Simón Azócar
+Hi 👋 My name is Simón A. Azócar
 =============================
 
-Frontend Developer and UI Designer
+Frontend Developer
 ----------------------------------
 
-I'm a Junior Frontend Developer that loves to code and make clean and nice user interfaces. I like to design web and mobile apps👨🏻‍💻
+I love to code and make clean and nice user interfaces. I like to design web and mobile apps👨🏻‍💻
 
 * 🌍  I'm based in Caracas, Venezuela
+* ⛰  I’m currently working in [Avila Tek](https://avilatek.com/)
 * 🖥️  See my portfolio at [https://simonazocar.vercel.app/](https://simonazocar.vercel.app/)
-* ✉️  You can contact me at [saimn.azocar@gmail.com](mailto:saimn.azocar@gmail.com )
-* 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on Any interesting project
-* ⚡  I'm a software engineer student
+* ✉️   You can contact me at [saimn.azocar@gmail.com](mailto:saimn.azocar@gmail.com ) or [simon@avilatek.dev](mailto:simon@avilatek.dev)
+* ⚡   I'm a software engineer student
 
 <a href="https://www.github.com/Sazocar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sazocar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
