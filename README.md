@@ -1,16 +1,10 @@
-Hi 👋 My name is Simón A. Azócar
+Simón A. Azócar - Software Engineer
 =============================
 
-Frontend Developer
-----------------------------------
-
-I love to code and make clean and nice user interfaces. I like to design web and mobile apps👨🏻‍💻
-
-* 🌍  I'm based in Caracas, Venezuela
-* ⛰  I’m currently working in [Avila Tek](https://avilatek.com/)
+* 🌍  Software Engineer based in Caracas, Venezuela
+* ⛰  I’m currently working @ [Venbos](https://venbos.com/)
 * 🖥️  See my portfolio at [https://simonazocar.vercel.app/](https://simonazocar.vercel.app/)
-* ✉️   You can contact me at [saimn.azocar@gmail.com](mailto:saimn.azocar@gmail.com ) or [simon@avilatek.dev](mailto:simon@avilatek.dev)
-* ⚡   I'm a software engineer student
+* ✉️   You can contact me at [saimn.azocar@gmail.com](mailto:saimn.azocar@gmail.com ) or [simon@venbos.com](mailto:simon@venbos.com)
 
 <a href="https://www.github.com/Sazocar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sazocar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
